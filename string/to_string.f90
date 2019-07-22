@@ -2,6 +2,7 @@ program to_string
 
   implicit none
 
+<<<<<<< HEAD
   print*, 'convert integer to string: '
   print*, 'to_str(1) = '//to_str(1)
   print*,
@@ -12,6 +13,18 @@ program to_string
   print*, "to_str(1.0,'(f12.6)') = "//to_str(1.0,'(f12.6)')
   print*,
   print*, 'convert logical to string'
+=======
+  print*, 'transform integer to string: '
+  print*, 'to_str(1) = '//to_str(1)
+  print*,
+  print*, 'transform real to string:'
+  print*, 'to_str(1.0) = '//to_str(1.0)
+  print*,
+  print*, 'transform real to string with format:'
+  print*, "to_str(1.0,'(f12.6)') = "//to_str(1.0,'(f12.6)')
+  print*, 
+  print*, 'transform logical to string'
+>>>>>>> b6d9ff6699fa4e5276a2d75e172f69b4f25dce60
   print*, "to_str(.TRUE.) = "//to_str(.TRUE.)
 
 contains
