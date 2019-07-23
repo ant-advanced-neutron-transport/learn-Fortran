@@ -21,3 +21,4 @@
 # 时间
 - [得到当前的日期和时间](./time/get_date_time.f90)
 - [统计钟表时间](./time/get_wall_time.f90)
+- [统计CPU时间](./time/get_cpu_time.f90)
