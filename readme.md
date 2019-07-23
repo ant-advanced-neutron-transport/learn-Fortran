@@ -16,4 +16,7 @@
 
 # 异常处理
 - [使用‘error stop’](./exception/error_stop.f90)
-- [确定错误所在的文件以及行号](./exception/error_file_line.f90) 
+- [确定错误所在的文件以及行号](./exception/error_file_line.f90)
+
+# 时间
+- [得到当前的日期和时间](./time/get_date_time.f90)
