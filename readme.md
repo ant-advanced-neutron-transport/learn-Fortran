@@ -8,4 +8,6 @@
 - [将一个字符串数组粘在一起](./string/join_string.f90)
 - [确定字符串在整个字符串中的位置](./string/string_index.f90)
 - [确定一个字符串中子字符串的个数](./string/determine_num_substring.f90)
+- [替换字符串中的某个子字符串](./string/replace_substring.f90)
+
 # 异常处理
