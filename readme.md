@@ -12,5 +12,6 @@
 - [将字符串拆分为子字符串](./string/split_string.f90)
 - [路径字符串操作（文件路径，名称，后缀等）](./string/path_string.f90)
 - [将文件中的所有内容读取到一个字符串中](./string/read_file_to_string.f90)
+- [读取文件中的一行](./string/read_file_line_to_string.f90)
 
 # 异常处理
