@@ -21,6 +21,7 @@
 
 # 数组操作
 - [动态数组自动重新分配](./src/array/allocatebel_array.f90)
+- [数组的各种构造函数](./src/array/construct_array.f90)
 # 异常处理
 - [使用‘error stop’](./src/exception/error_stop.f90)
 - [确定错误所在的文件以及行号](./src/exception/error_file_line.f90)
