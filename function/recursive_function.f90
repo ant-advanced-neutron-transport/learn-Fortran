@@ -1,3 +1,4 @@
+!!> 可以自己调用自己的函数叫做递归函数。
 program recursive_function
 
   implicit none
