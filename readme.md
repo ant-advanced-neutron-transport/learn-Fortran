@@ -46,3 +46,4 @@
 
 # 结构
 - [block 结构](./structure/block_structure.f90)
+- [associate 结构](./structure/associate_structure.f90)
