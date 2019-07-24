@@ -54,3 +54,4 @@
 
 # 混编
 - [和C语言混编](./src/c_interoperablity/c_sleep_function.f90)
+- [利用f2py和python语言混编](./src/python_interoperablity/legendre.f90)
