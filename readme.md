@@ -26,3 +26,4 @@
 
 # 命令行参数
 - [确定是否存在某个选项](./option/determine_if_have_option.f90)
+- [获取某个选项的值](./option/get_option_value.f90)
