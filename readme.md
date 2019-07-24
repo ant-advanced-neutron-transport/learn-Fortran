@@ -16,6 +16,7 @@
 - [读取文件中的一行](./string/read_file_line_to_string.f90)
 
 - [特殊字符 <回车> char(13)](./string/special_char13_enter.f90)
+- [特殊字符 <换行> char(10)](./string/special_char10_newline.f90)
 - [特殊字符-终端颜色显示](./string/special_char_terminal_color.f90)
 
 # 异常处理
