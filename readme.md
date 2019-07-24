@@ -33,6 +33,7 @@
 - [获取某个选项的值](./option/get_option_value.f90)
 - [在命令行执行某个命令](./option/fortran_execute_command_line.f90)
 - [获得当前程序运行的所有命令行参数](./option/get_all_command.f90)
+- [获取环境变量的值](./option/get_envrionment_variable_value.f90)
 
 # 函数
 - [递归函数](./function/recursive_function.f90)
