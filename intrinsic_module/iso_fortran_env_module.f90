@@ -15,4 +15,7 @@ program iso_fortran_env_module
   print*, 'iostat_end = ',iostat_end
   print*, 'iostat_eor = ',iostat_eor
 
+  print*, 'compiler_version:',compiler_version()
+  print*, 'compiler_options:',compiler_options()
+
 end program iso_fortran_env_module
