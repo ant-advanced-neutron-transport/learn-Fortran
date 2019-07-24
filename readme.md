@@ -53,5 +53,5 @@
 - [associate 结构](./src/structure/associate_structure.f90)
 
 # 混编
-- [和C语言混编](./src/c_interoperablity/c_sleep_function.f90)
-- [利用f2py和python语言混编](./src/python_interoperablity/legendre.f90)
+- [和C语言混编](./src/c_interoperablility/c_sleep_function.f90)
+- [利用f2py和python语言混编](./src/python_interoperablility/legendre.f90)
