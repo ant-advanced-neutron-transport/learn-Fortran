@@ -3,17 +3,20 @@ program pure_function
 
   implicit none
 
-  print*, "norm2([3.,4.]) = "
-  print*, norm2([3.,4.])
+  print*, "my_norm2([3.,4.,sqrt(11.)]) = "
+  print*, my_norm2([3.,4.,sqrt(11.)])
+  print*,
+  print*, "norm2([3.,4.,sqrt(11.)]) = "
+  print*, norm2([3.,4.,sqrt(11.)])
 
 contains
-  pure function norm2(x)
+  pure function my_norm2(x)
     real, intent(in) :: x(:)
-    real :: norm2
+    real :: my_norm2
 
-    norm2 = sqrt(dot_product(x,x))
+    my_norm2 = sqrt(dot_product(x,x))
 
-  end function norm2
+  end function my_norm2
 
 
 end program pure_function
