@@ -19,6 +19,8 @@
 - [特殊字符 <换行> char(10)](./src/string/special_char10_newline.f90)
 - [特殊字符-终端颜色显示](./src/string/special_char_terminal_color.f90)
 
+# 数组操作
+- [动态数组自动重新分配](./src/array/allocatebel_array.f90)
 # 异常处理
 - [使用‘error stop’](./src/exception/error_stop.f90)
 - [确定错误所在的文件以及行号](./src/exception/error_file_line.f90)
