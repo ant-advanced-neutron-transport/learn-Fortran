@@ -30,3 +30,4 @@
 
 # 函数
 - [递归函数](./function/recursive_function.f90)
+- [逐元函数](./function/elemental_function.f90)
